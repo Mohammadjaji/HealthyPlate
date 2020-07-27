@@ -1,0 +1,164 @@
+.body{
+    width: 99%;
+    height: 100%;
+}
+*{
+    font-family: 'Red Rose', cursive;
+}
+.Top{
+    display: flex;
+    height: 50px;
+    flex-direction: row-reverse;
+    font-size: 200%;
+}
+.Bass{
+    height: 40px;
+}
+
+.sea{
+    display: flex;
+    justify-content: space-between;
+    font-size: 200%;  
+}
+.sea1{
+    display: flex;
+    justify-items: center;
+}
+.folw{
+    display: flex;
+    align-items: baseline;
+  
+}
+#fc{
+    height: 30px;  
+}
+#tw{
+    height: 30px; 
+}
+#ins{
+    height: 40px;  
+    
+}
+.log{
+    display: flex;
+    justify-content: center;
+}
+.bar{
+    display: flex;
+    font-size: 280%;
+    color: black;
+    height: 150px;
+    width: 99%;
+    justify-content: center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-items: center;
+}
+.space{
+    margin: 200px;
+    text-align: center;
+}
+.first{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    
+}
+.second{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.third{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.fourth{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.fifth {
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.mai{
+    display: flex;
+    height: 70px;
+    width: 99%;
+    justify-content: center;
+}
+.men{
+    display: flex;
+    height: 250;
+    width: 99%;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.im{ 
+    display: flex;
+    height: 300px;
+    width: 20vw;
+    opacity: 0.7;
+    padding: 10px;
+}
+
+.menu1{
+    display: flex;
+    justify-content: center;
+}
+.menu2{
+    display: flex;
+    justify-content: center;
+}
+.menu3{
+    display: flex;
+    justify-content: center;
+}
+.menu4{
+    display: flex;
+    justify-content: center;
+}
+.menu5{
+    display: flex;
+    justify-content: center;
+}
+.menu6{
+    display: flex;
+    justify-content: center;
+}
+.menu7{
+    display: flex;
+    justify-content: center;
+}
+.menu8{
+    display: flex;
+    justify-content: center;
+}
+.gbk{
+    display: flex;
+    width: 99%;
+    height: 50px;
+    flex-direction: row;
+    justify-content: center;
+}
+.write{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.rea{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.att{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

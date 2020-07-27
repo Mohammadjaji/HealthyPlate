@@ -1,0 +1,20 @@
+.us{
+    text-align: center;
+}
+.how{
+    display: flex;
+    justify-content: center;
+}
+.works{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.pic{
+    height: 300px;
+    width: 20vw;
+}
+.pic1{
+    display: flex;
+    align-items: center;
+}

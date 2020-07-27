@@ -1,0 +1,158 @@
+.body{
+    height: 100%;
+    width: 99%;
+}
+*{
+    font-family: 'Red Rose', cursive;
+}
+.Top{
+    display: flex;
+    height: 10%;
+    flex-direction: row-reverse;
+    font-size: 200%;
+}
+.Bass{
+    height: 40px;
+}
+
+.sea{
+    display: flex;
+    justify-content: space-between;
+    font-size: 200%;  
+}
+.sea1{
+    display: flex;
+    justify-items: center;
+}
+.folw{
+    display: flex;
+    align-items: baseline;
+  
+}
+#fc{
+    height: 30px;  
+}
+#tw{
+    height: 30px; 
+}
+#ins{
+    height: 40px;  
+    
+}
+.log{
+    display: flex;
+    justify-content: center;
+}
+.bar{
+    display: flex;
+    font-size: 280%;
+    color: black;
+    height: 150px;
+    width: 99%;
+    justify-content: center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-items: center;
+}
+.space{
+    margin: 200px;
+    text-align: center;
+}
+.first{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    
+}
+.second{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.third{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.fourth{
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.fifth {
+    text-decoration: none;
+    color: black;
+    font-family: 'Indie Flower', cursive;
+}
+.three{
+    display: flex;
+    height: 600px;
+    width: 100%;
+    align-items: stretch;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.veg{
+    display: flex;
+    background-image: url(img/drinks.jpg);
+    background-size: 25vw 550px;
+    height: 550px;
+    width: 20vw;
+    font-size: 25px;
+    color:white;
+    flex-direction: column-reverse;
+    align-items: center;
+    
+}
+.menu{
+    display: flex;
+    background-image: url(img/manmenu.JPG);
+    background-size: 25vw 550px;
+    height: 550px;
+    width: 20vw;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    flex-direction: column-reverse;
+    
+}
+.des{
+    display: flex;
+    background-image: url(img/desert.JPG);
+    background-size: 25vw 550px;
+    height: 550px;
+    width: 20vw;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    text-align: end;
+    flex-direction: column-reverse;
+}
+.slog{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    width: 100%;
+    justify-content: center;
+    ;
+
+}
+.slog1{
+    display: flex;
+    height: 150px;
+    width: 200px;
+    padding: 100px;
+}
+.head1{
+    display: flex;
+    justify-content: center;
+    
+}
+.fo{
+    display: flex;
+    height:150px ;
+    width: 100%;
+    justify-content: center;
+}

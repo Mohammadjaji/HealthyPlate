@@ -1,0 +1,45 @@
+
+.Top{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.Bass{
+    height: 20px;
+}
+
+.sea{
+    display: flex;
+    border: solid green 2px;
+}
+.sea1{
+    display: flex;
+    flex-direction: row;
+}
+.folw{
+    display: flex;
+    flex-direction: row-reverse;
+    border: solid red 2px;
+   
+
+}
+#fc{
+    height: 25px;  
+}
+#tw{
+    height: 25px; 
+}
+#ins{
+    height: 25px;  
+    
+}
+.log{
+    text-align: center;
+    height: 180px;
+}
+.bar{
+    overflow: hidden;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}

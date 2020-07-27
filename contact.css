@@ -1,0 +1,26 @@
+.hear{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+    
+}
+.faq{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.enq{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.enq1{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    justify-content: center;
+}
